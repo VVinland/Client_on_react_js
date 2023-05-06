@@ -4,7 +4,7 @@
 
 установлена у него в системе на пк (светлая/тёмная), далее пользователь может переключаться между светлой/тёмной темой). Для выполнения данной работы использовал хуки:
 
-useLocation, useEffect, useState, useParams так же испоьзовал кастомный хук.
+useLocation, useEffect, useState, useParams так же испоьзовал кастомный хук. Необходимые данные для реализации проекта сохранял в localStorage 
 
 (Data inside the site such as: technology stacks or data in the "Contacts" section, as well as pictures were invented randomly or taken from the Internet)
 
@@ -12,4 +12,4 @@ The client part is done in react js. Implemented: division into components, rout
 
 installed in his system on a PC (light/dark), then the user can switch between light/dark theme). To do this, I used hooks:
 
-useLocation, useEffect, useState, useParams also used a custom hook.
+useLocation, useEffect, useState, useParams also used a custom hook. The necessary data for the implementation of the project was saved in localStorage
